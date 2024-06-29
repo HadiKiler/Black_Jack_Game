@@ -4,5 +4,9 @@ blackjack, or twenty-one, Card game whose object is to be dealt cards having a h
 
 just 
 ```sh
+pip install -r .\requirements.txt
+```
+and
+```sh
 python main.py
 ```

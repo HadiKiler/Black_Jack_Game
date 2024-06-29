@@ -1,6 +1,7 @@
 import random
 from art import logo
 from replit import clear
+
 def get_random_card():
     cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
     return cards[random.randint(0, len(cards)-1)]
